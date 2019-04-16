@@ -14,3 +14,7 @@ The employer requests a system that will:
 *Allow the accountant to view and alter any changes to the data.
 
 *Allow a graph view of data as another means of viewing the data.
+
+## UML class Diagram of system
+
+![Adp uml](https://user-images.githubusercontent.com/47378046/56246529-21371980-609a-11e9-83c3-f218869cd914.png)
